@@ -1,5 +1,7 @@
 <h2 align="center">Hello! I'm Alyssa, and I'm trying to change the world around me.</h2>
 
+<!--
+
 <br />
 
 <div align="center">
@@ -8,6 +10,8 @@
 </div>
 
 <br />
+
+-->
 
 <div align="center">
   <img style="padding: 5px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
